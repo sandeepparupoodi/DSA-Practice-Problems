@@ -128,7 +128,7 @@ This repository documents my journey of solving DSA problems systematically and 
   https://www.hackerrank.com/dsa-practice-problems-cse-c
 
 * 🐙 GitHub Repository:
-  Add your repository link here
+  https://github.com/sandeepparupoodi/DSA-Practice-Problems.git
 
 ---
 
